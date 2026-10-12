@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789474239 source:c:\codigosc\atividades_fixaxao\atividdde_pratica\main.c
+	<stdio.h>
+	<stdlib.h>
+

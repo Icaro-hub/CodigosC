@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789163933 source:c:\codigosc\atividades_fixaxao\at1_aula5\main.c
+	<stdio.h>
+	<stdlib.h>
+

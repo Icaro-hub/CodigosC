@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1788872306 source:c:\codigosc\atividades_fixaxao\at1_aula4\criterios_de_desempate\main.c
+	<stdio.h>
+	<stdlib.h>
+

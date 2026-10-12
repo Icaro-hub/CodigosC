@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1788015827 source:c:\codigosc\atividades_fixaxao\at2_aula4\valores_corretor\main.c
+	<stdio.h>
+	<stdlib.h>
+

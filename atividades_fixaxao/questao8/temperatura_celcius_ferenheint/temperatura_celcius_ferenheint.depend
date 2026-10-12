@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1788637416 source:c:\codigosc\atividades_fixaxao\questao8\temperatura_celcius_ferenheint\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1788100577 source:c:\codigosc\atividades_fixaxao\questao9\anosbissextos\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788636791 source:c:\codigosc\atividades_fixaxao\questao3\funcaocomlinguagemc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

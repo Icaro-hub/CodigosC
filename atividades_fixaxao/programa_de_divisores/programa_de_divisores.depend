@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790083508 source:c:\codigosc\atividades_fixaxao\programa_de_divisores\main.c
+	<stdio.h>
+	<stdlib.h>
+

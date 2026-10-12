@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1789223562 source:c:\codigosc\atividades_fixaxao\variavel_contadora_aula6\main.c
+	<stdio.h>
+	<stdlib.h>
+
