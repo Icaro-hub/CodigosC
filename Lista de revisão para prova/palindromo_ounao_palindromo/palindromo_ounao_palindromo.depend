@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794853289 source:c:\codigosc\lista de revisão para prova\palindromo_ounao_palindromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

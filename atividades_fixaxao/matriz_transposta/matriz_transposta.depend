@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1793133956 source:c:\codigosc\atividades_fixaxao\matriz_transposta\main.c
+	<stdio.h>
+	<stdlib.h>
+

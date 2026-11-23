@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1795469514 source:c:\codigosc\questao3_prova2_alp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1793212822 source:c:\codigosc\atividades_fixaxao\matriz_posicoes_nao_nulas\main.c
+	<stdio.h>
+	<stdlib.h>
+

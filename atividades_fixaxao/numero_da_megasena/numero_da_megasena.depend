@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1791893400 source:c:\codigosc\atividades_fixaxao\numero_da_megasena\main.c
+	<stdio.h>
+	<stdlib.h>
+

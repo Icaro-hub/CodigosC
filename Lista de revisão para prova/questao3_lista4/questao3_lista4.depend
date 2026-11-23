@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794824291 source:c:\codigosc\lista de revisão para prova\questao3_lista4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

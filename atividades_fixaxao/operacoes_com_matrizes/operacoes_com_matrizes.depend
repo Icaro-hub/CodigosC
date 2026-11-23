@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1792583688 source:c:\codigosc\atividades_fixaxao\operacoes_com_matrizes\main.c
+	<stdio.h>
+	<stdlib.h>
+
